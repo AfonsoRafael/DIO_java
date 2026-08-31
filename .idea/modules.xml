@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001aula-java/001aula-java.iml" filepath="$PROJECT_DIR$/001aula-java/001aula-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002tipos_variaveis/002tipos_variaveis.iml" filepath="$PROJECT_DIR$/002tipos_variaveis/002tipos_variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003exercicios/003exercicios.iml" filepath="$PROJECT_DIR$/003exercicios/003exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004ContaBanco/004ContaBanco.iml" filepath="$PROJECT_DIR$/004ContaBanco/004ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005DesafioContado/005DesafioContado.iml" filepath="$PROJECT_DIR$/005DesafioContado/005DesafioContado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DIO_java.iml" filepath="$PROJECT_DIR$/.idea/DIO_java.iml" />
+    </modules>
+  </component>
+</project>
